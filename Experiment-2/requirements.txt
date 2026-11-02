@@ -1,0 +1,2 @@
+# POX is used from the existing ~/pox installation.
+# No additional Python packages are required.
